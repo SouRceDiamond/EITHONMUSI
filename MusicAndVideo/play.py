@@ -381,7 +381,7 @@ async def playfrom(client, m: Message):
                     )
             await hmm.delete()
             await m.reply(
-                f"➕ تم اضافة {lmt} اغاني في الانتضار\n• اكتب {HNDLR}الانتضار لروية قائمة الانتضار**"
+                f"➕ تم اضافة {lmt} اغاني في قائمة\n• اكتب {HNDLR} الانتظار لقائمة الانتظار**"
             )
         except Exception as e:
             await hmm.edit(f"**ERROR** \n`{e}`")
