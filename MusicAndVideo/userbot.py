@@ -90,4 +90,3 @@ async def help(client, m: Message):
 • !انهاء - لإنهاء التشغيل</b>
 "By: @CR_T2"""
     await m.reply(HELP)
-    "⁨⌯ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝙎𝘼𝙇𝘼𝙃˼⁩", url=f"https://t.me/BK_ZT"
